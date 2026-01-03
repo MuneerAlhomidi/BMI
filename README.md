@@ -21,7 +21,7 @@ This project helped me practice and understand:
 ## 🛠️ Tech Stack
 - **Framework:** Flutter
 - **Language:** Dart
-- **Tools:** VS Code / Android Studio
+- **Tools:** VS Code 
 
 ---
 
@@ -38,20 +38,13 @@ The app contains:
 - Main input screen for BMI values
 - Result display screen
 
-(*Update these if your project includes more screens.*)
-
----
 
 ## ▶️ Getting Started
 
 ### Prerequisites
 - Flutter SDK installed
-- Android Studio or VS Code
-- Emulator or physical device
+- VS Code
+- Emulator 
 
-### Install Dependencies
-```bash
-git clone https://github.com/MuneerAlhomidi/BMI.git
-cd BMI
-flutter pub get
+
 
